@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppsMeteo</string>
+    <string name="action_settings">"A propos"</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Searchfield">Rechercher une ville</string>
+    <string name="Searchbutton">Search</string>
+    <string name="SeaEC">Recherche en cours de </string>
+    <string name="settings">"A propos"</string>
+    <string name="title_about">"Informations"</string>
+    <string name="Tproxy">Proxy</string>
+    <string name="opt_favoris">Favoris</string>
+    <string name="txt_ville">Ville</string>
+    <string name="txt_pays">Pays</string>
+    <string name="title_section0">Day 0</string>
+    <string name="title_section1">Day 1</string>
+    <string name="title_section2">Day 2</string>
+    <string name="title_section3">Day 3</string>
+    <string name="title_section4">Day 4</string>
+    <string name="title_section5">Day 5</string>
+    <string name="title_section6">Day 6</string>
+    <string name="opt_main">Accueil</string>
+    <string name="opt_previ">Previsions</string>
+    <string name="title_section_resume">Resumé</string>
+    <string name="txt_precip">"Précipitation : "</string>
+    <string name="unit_precip">" mm/h"</string>
+    <string name="unit_temp">°c</string>
+    <string name="opt_addfav">"Sauvegarder mes Favoris"</string>
+    <string name="txt_auteur">"L'auteur : "</string>
+    <string name="txt_about">"A propos : "</string>
+    <string name="txt_about_auteur">"Charles Bongiorno\nCir_3 Isen Toulon"</string>
+    <string name="txt_about_des">"Application réalisée dans le cadre du projet Android de 3° année de l'ISEN TOULON\nhttp://www.isen.fr/toulon/"</string>
+    <string name="txt_about_copyright">"Cette application utilise les données météo de l'API d'Open Weather Map\nhttp://openweathermap.org/"</string>
+    <string name="txt_def_fav">"Historique : "</string>
+    <string name="txt_wind">"Vent : "</string>
+    <string name="txt_wind_unit">" m/s "</string>
+    <string name="txt_pressure">"Pression : "</string>
+    <string name="txt_pressure_unit">" hPa"</string>
+    <string name="txt_humidity">"Humidité : "</string>
+    <string name="txt_humidity_unit">" %"</string>
+    <string name="txt_relea">"Release date : 01/02/2014"</string>
+    <string name="toast_rech_cours">"O_o vous êtes trop rapide, je peux aller aussi vite que vous"</string>
+    <string name="toast_err_reseau">"Erreur connection Réseau"</string>
+    <string name="toast_err_ville_inconnu">"Ville non trouvée"</string>
+    <string name="toast_err_parsing">"Désolé, un probléme est survenu"</string>
+    <string name="toast_err_api">"Oups, un sort de léprechaun a perturbé la connexion. Désolé, veuillez relancer la recherche."</string>
+    <string name="toast_err_inco">"Désolé, un mysterieux probléme est survenu"</string>
+		
+</resources>

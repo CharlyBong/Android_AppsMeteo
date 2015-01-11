@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="temp_max">#FFFF0000</color>
+    <color name="temp_min">#FF0000FF</color>
+    <color name="Background_line">#FFDDDDDD</color>
+    <color name="Background_line_2">#FFAAAAAA</color>
+    <color name="barre">#99000000</color>
+    <color name="andr_blue">#FF33B5E5</color>
+    <color name="andr_red">#FFFF4444</color>
+    
+</resources>
